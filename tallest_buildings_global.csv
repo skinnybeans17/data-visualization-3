@@ -1,0 +1,21 @@
+rank,name,height_m,height_ft,year_built,floors_above,floors_below_ground,city,country
+1,Burj Khalifa,828.0,2717,2010,163,1,Dubai,United Arab Emirates
+2,Merdeka 118,678.9,2227,2022,118,5,Kuala Lumpur,Malaysia
+3,Shanghai Tower,632.0,2073,2015,128,5,Shanghai,China
+4,Abraj Al-Bait Clock Tower,601.0,1972,2012,120,3,Mecca,Saudi Arabia
+5,Ping An International Finance Centre,599.1,1966,2017,115,5,Shenzhen,China
+6,Lotte World Tower,554.5,1819,2017,123,6,Seoul,South Korea
+7,One World Trade Center,541.3,1776,2014,94,5,New York City,United States
+8,Guangzhou CTF Finance Centre,530.0,1739,2016,111,5,Guangzhou,China
+9,Tianjin CTF Finance Centre,530.0,1739,2019,97,4,Tianjin,China
+10,China Zun,527.7,1731,2018,109,8,Beijing,China
+11,Taipei 101,508.0,1667,2004,101,5,Taipei,Taiwan
+12,Shanghai World Financial Center,492.0,1614,2008,101,3,Shanghai,China
+13,International Commerce Centre,484.0,1588,2010,108,4,Hong Kong,China
+14,Wuhan Greenland Center,475.6,1560,2022,97,0,Wuhan,China
+15,Central Park Tower,472.4,1550,2020,98,4,New York City,United States
+16,Lakhta Center,462.0,1516,2019,87,3,Saint Petersburg,Russia
+17,Landmark 81,461.2,1513,2018,81,3,Ho Chi Minh City,Vietnam
+18,Changsha IFS Tower T1,452.1,1483,2018,94,5,Changsha,China
+19,Petronas Tower 1,451.9,1483,1998,88,5,Kuala Lumpur,Malaysia
+20,Petronas Tower 2,451.9,1483,1998,88,5,Kuala Lumpur,Malaysia
